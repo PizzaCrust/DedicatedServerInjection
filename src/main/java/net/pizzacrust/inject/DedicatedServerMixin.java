@@ -1,4 +1,4 @@
-package net.pizzacrust.dedicatedinjection;
+package net.pizzacrust.inject;
 
 import net.pizzacrust.mixin.Inject;
 import net.pizzacrust.mixin.Mixin;

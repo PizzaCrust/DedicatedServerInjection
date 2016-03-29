@@ -1,4 +1,4 @@
-package net.pizzacrust.dedicatedinjection;
+package net.pizzacrust.inject;
 
 import java.lang.instrument.Instrumentation;
 

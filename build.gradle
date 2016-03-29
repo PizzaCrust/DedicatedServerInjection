@@ -9,7 +9,7 @@ repositories {
 
 jar {
     manifest {
-        attributes "Premain-Class": "net.pizzacrust.dedicatedinjection.InjectionAgent"
+        attributes "Premain-Class": "net.pizzacrust.inject.InjectionAgent"
     }
 }
 
