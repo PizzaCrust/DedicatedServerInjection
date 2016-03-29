@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DedicatedServerInjection_main" target="1.5" />
-      <module name="DedicatedServerInjection_test" target="1.5" />
+      <module name="DedicatedServerInjection_main" target="1.7" />
+      <module name="DedicatedServerInjection_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
