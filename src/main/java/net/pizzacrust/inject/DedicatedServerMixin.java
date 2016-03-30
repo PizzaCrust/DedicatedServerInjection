@@ -10,6 +10,13 @@ import net.pizzacrust.mixin.Mixin;
  */
 @Mixin(InjectionAgent.DEDICATED_SERVER_MAPPING)
 public class DedicatedServerMixin {
+
+    /**
+     * Allows for the creation of this Mixin from the MixinAgent.
+     * @param obj something...
+     */
+    public DedicatedServerMixin(Object obj) {}
+
     /**
      * The annotation that indicates that the method is injected into line 1041 in the method of startServer in DedicatedServer.
      */
