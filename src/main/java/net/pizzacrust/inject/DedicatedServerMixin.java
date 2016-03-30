@@ -17,7 +17,7 @@ public class DedicatedServerMixin {
     /**
      * The startServer method in the DedicatedServer.
      */
-    public static void j() {
+    public void j() {
         System.out.println("DedicatedInjection > Injection has injected to the Minecraft Server successfully!");
     }
 }
